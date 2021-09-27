@@ -1,4 +1,4 @@
-# Stock Analysis -Refactoring
+# Stock Analysis - Refactoring
 Module 2 Challenge
 
 ## Overview of Project
