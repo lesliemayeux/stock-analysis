@@ -18,6 +18,7 @@ To prepare for creating the refactored VBA, I reused some of my code from the or
 
 ### Code Example
 Here is the portion of the refactored VBA code:
+
     '1a) Create a ticker Index
     tickerIndex = 0
 
@@ -71,7 +72,7 @@ Here is the portion of the refactored VBA code:
     
 ### Execution Time Comparison
 
-
+Resources/Original 2017 Code Timer.png
 
 
 
