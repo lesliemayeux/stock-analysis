@@ -13,7 +13,8 @@ In this challenge, you’ll edit, or refactor, the Module 2 solution code to loo
 Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality; you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be your entry point to working with the existing code at a job.
 
 #### Analysis Results
-![] (images/AllStockAnalysis2017.png)
+![](Resources/AllStockAnalysis2017.png)
+![](Resources/AllStockAnalysis2018.png)
 
 ## Results
 To prepare for creating the refactored VBA, I reused some of my code from the original green_stocks file which included the formatting, timer and input box.
@@ -72,17 +73,31 @@ Here is the portion of the refactored VBA code:
         
     Next i
     
-### Execution Time Comparison
+#### Execution Time Comparison
 
-### Original Code Timers
+##### Original
+![](Resources/Original2017Timer.png)
+![](Resources/Original2018Code.png)
 
+##### Refactored
+![](Resources/Refactored2017.png)
+![](Resources/Refactored2018.png)
 
+## Summary
 
+#### What are the advantages or disadvantages of refactoring code?
 
+**Advantages:**
+> - Quicker execution times
+> - Easier to debug
 
+**Disadvantages:** 
+> - Duplictions of logical structures
+> - The process of refactoring could affect testing outcomes
 
+#### How do these pros and cons apply to refactoring the original VBA script?
 
-
+When codes are organized and easy to understand, they are less maintenance.  Refactoring does that.  In the end, how you write your code is up to what you are most conformatble with.
 
 
 
